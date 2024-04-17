@@ -8,7 +8,6 @@ body {
 #navbar {
   height: 100%;
   width: 300px;
-  min-width: 300px;
   border-right: solid 2px #808080;
   position: fixed;
   left: 0;
